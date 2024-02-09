@@ -40,14 +40,14 @@ section {
 .buttonClick {
     z-index: 1;
     position: absolute;
-    margin-top: 22em;
+    margin-top: 23em;
     width: 10em;
     height: 10em;
     border: 1px solid black;
     border-radius: 50%;
     background-color: beige;
     transition: 0.5s;
-    margin-left: 44%;
+    margin-left: 42%;
 }
 
 .buttonClick:hover {
